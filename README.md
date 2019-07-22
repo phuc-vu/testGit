@@ -1,0 +1,2 @@
+# testGit
+to understand git
